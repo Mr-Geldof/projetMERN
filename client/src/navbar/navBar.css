@@ -1,0 +1,28 @@
+.navBar
+{
+    font-size: 50px;
+    margin-top: 50px;
+}
+.navBar ul
+{
+    list-style: none;
+}
+.lien
+{
+    color:   white ;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    float: left;
+}
+.bnt1
+{
+    margin-left: 350px;
+    margin-top: 150px;
+    border-radius: 15px;
+    background-color: #1D8348 ;
+}
+.lien:hover
+{
+    color: #F7DC6F;
+}
